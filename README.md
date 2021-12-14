@@ -25,7 +25,7 @@
 
 
 1. desenhar a personagem
-2. desenhar a matriz do nível e enimigos
+2. desenhar a matriz do nível e inimigos
 3. ler teclas e mover a personagem
 4. fazer o movimento dos enimigos e os tempos em que aparecem ao longo do nível e em que níveis
 5. verificar se jogador chegou ao fim do nível
